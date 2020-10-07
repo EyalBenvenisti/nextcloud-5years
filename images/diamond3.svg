@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="218px" height="212px" viewBox="0 0 218 212" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 16</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="151.190673%" cy="50%" fx="151.190673%" fy="50%" r="136.873941%" gradientTransform="translate(1.511907,0.500000),scale(0.785576,1.000000),rotate(13.088359),translate(-1.511907,-0.500000)" id="radialGradient-1">
+            <stop stop-color="#0095D2" offset="0%"></stop>
+            <stop stop-color="#1C2D6B" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="151.190673%" cy="50%" fx="151.190673%" fy="50%" r="118.467542%" gradientTransform="translate(1.511907,0.500000),scale(1.000000,0.559788),rotate(27.864799),translate(-1.511907,-0.500000)" id="radialGradient-2">
+            <stop stop-color="#0095D2" offset="0%"></stop>
+            <stop stop-color="#1C2D6B" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Nextcloud-Website-Copy" transform="translate(-1040.000000, -12870.000000)">
+            <g id="Group-16" transform="translate(1040.000000, 12870.000000)">
+                <polygon id="Rectangle" fill="url(#radialGradient-1)" points="170.61305 0.970510428 145 135 0 135"></polygon>
+                <polygon id="Rectangle" fill="#34C5A4" points="2.27777778 135 143 135 168 212"></polygon>
+                <polygon id="Rectangle" fill="#50E3C2" points="141.888889 135 180 135 217.5 135 167.388889 212"></polygon>
+                <polygon id="Rectangle" fill="url(#radialGradient-2)" points="170.61305 -6.82121026e-13 217.460317 135 141.888889 135"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

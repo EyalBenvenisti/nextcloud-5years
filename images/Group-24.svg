@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="287px" height="796px" viewBox="0 0 287 796" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 24</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="45.2960706%" x2="100%" y2="54.7039294%" id="linearGradient-1">
+            <stop stop-color="#215691" offset="0%"></stop>
+            <stop stop-color="#0095D2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="45.1993046%" y1="0%" x2="54.8006954%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#215691" offset="0%"></stop>
+            <stop stop-color="#0095D2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="46.6787119%" x2="100%" y2="53.3212881%" id="linearGradient-3">
+            <stop stop-color="#215691" offset="0%"></stop>
+            <stop stop-color="#0095D2" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="-16.3185845%" cy="54.1690286%" fx="-16.3185845%" fy="54.1690286%" r="249.731022%" gradientTransform="translate(-0.163186,0.541690),scale(1.000000,0.306836),rotate(-32.854023),translate(0.163186,-0.541690)" id="radialGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#064C78" offset="100%"></stop>
+        </radialGradient>
+        <filter x="-8.4%" y="-480.0%" width="116.7%" height="1060.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="4.8985872e-16 -8" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-8.4%" y="-480.0%" width="116.7%" height="1060.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="4.8985872e-16 -8" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-8.4%" y="-480.0%" width="116.7%" height="1060.0%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="4.8985872e-16 -8" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-8.4%" y="-480.0%" width="116.7%" height="1060.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="4.8985872e-16 -8" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Nextcloud-Website-Copy" transform="translate(-802.000000, -10789.000000)">
+            <g id="Group-24" transform="translate(802.000000, 10789.000000)">
+                <g id="Group-25">
+                    <g id="Group-5">
+                        <polygon id="Rectangle" fill="#052545" points="0 105 220 105 220 796 0 796"></polygon>
+                        <g id="Group-12" transform="translate(53.000000, 0.000000)">
+                            <polygon id="Rectangle" fill="url(#linearGradient-1)" points="0 50 163.013889 50 163.013889 100 0 100"></polygon>
+                            <path d="M163.013889,46.8740184 C166.577044,32.298606 170.61871,21.591966 175.138889,14.7540984 C179.659067,7.91623068 185.946104,2.99819789 194,0 L194,100 L163.013889,100 L163.013889,46.8740184 Z" id="Rectangle" fill="url(#linearGradient-2)"></path>
+                            <polygon id="Rectangle" fill="url(#linearGradient-3)" points="43.9997748 7.10542736e-12 194 0 163.013889 50 0 50"></polygon>
+                        </g>
+                        <path d="M0,145.346895 L193,145.346895 L0,145.346895 Z M0,234.24197 L193,234.24197 L0,234.24197 Z M0,324.48394 L193,324.48394 L0,324.48394 Z M0,413.379015 L193,413.379015 L0,413.379015 Z M0,503.620985 L193,503.620985 L0,503.620985 Z M0,592.51606 L193,592.51606 L0,592.51606 Z M0,682.75803 L193,682.75803 L0,682.75803 Z M0,771.653105 L193,771.653105 L0,771.653105 Z M0,189.794433 L193,189.794433 L0,189.794433 Z M0,280.036403 L193,280.036403 L0,280.036403 Z M0,368.931478 L193,368.931478 L0,368.931478 Z M0,459.173448 L193,459.173448 L0,459.173448 Z M0,548.068522 L193,548.068522 L0,548.068522 Z M0,636.963597 L193,636.963597 L0,636.963597 Z M0,727.205567 L193,727.205567 L0,727.205567 Z" id="Combined-Shape" stroke="url(#radialGradient-4)" opacity="0.400000006"></path>
+                        <polygon id="Rectangle" fill="#50E3C2" transform="translate(143.500000, 102.500000) scale(1, -1) translate(-143.500000, -102.500000) " points="0 100 287 100 287 105 0 105"></polygon>
+                        <polygon id="Rectangle" fill="#50E3C2" transform="translate(143.500000, 508.500000) scale(1, -1) translate(-143.500000, -508.500000) " points="0 506 287 506 287 511 0 511"></polygon>
+                        <polygon id="Rectangle" fill="#50E3C2" filter="url(#filter-5)" transform="translate(143.500000, 97.500000) scale(1, -1) translate(-143.500000, -97.500000) " points="0 95 287 95 287 100 0 100"></polygon>
+                        <polygon id="Rectangle" fill="#50E3C2" filter="url(#filter-6)" transform="translate(143.500000, 97.500000) scale(1, -1) translate(-143.500000, -97.500000) " points="0 95 287 95 287 100 0 100"></polygon>
+                        <polygon id="Rectangle" fill="#50E3C2" filter="url(#filter-7)" transform="translate(143.500000, 497.500000) scale(1, -1) translate(-143.500000, -497.500000) " points="0 495 287 495 287 500 0 500"></polygon>
+                        <polygon id="Rectangle" fill="#50E3C2" filter="url(#filter-8)" transform="translate(143.500000, 504.500000) scale(1, -1) translate(-143.500000, -504.500000) " points="0 502 287 502 287 507 0 507"></polygon>
+                    </g>
+                    <polygon id="Rectangle" fill="#02182F" points="220 105 287 105 287 796 220 796"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

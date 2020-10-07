@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="203px" height="807px" viewBox="0 0 203 807" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 13</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="-16.3185845%" cy="54.1690286%" fx="-16.3185845%" fy="54.1690286%" r="208.135947%" gradientTransform="translate(-0.163186,0.541690),scale(1.000000,0.251549),rotate(-44.808055),translate(0.163186,-0.541690)" id="radialGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#064C78" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="40.0666668%" y1="73.0439962%" x2="74.109142%" y2="68.7943047%" id="linearGradient-2">
+            <stop stop-color="#29B797" offset="0%"></stop>
+            <stop stop-color="#0095D2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-193.482002%" y1="57.5374297%" x2="640.953917%" y2="56.1474038%" id="linearGradient-3">
+            <stop stop-color="#2BE7BD" offset="0%"></stop>
+            <stop stop-color="#0095D2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="47.883258%" y1="0%" x2="52.116742%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#09294D" offset="0%"></stop>
+            <stop stop-color="#0095D2" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="80.3120281%" cy="54.5509384%" fx="80.3120281%" fy="54.5509384%" r="198.300247%" gradientTransform="translate(0.803120,0.545509),scale(1.000000,0.220076),rotate(-118.715414),translate(-0.803120,-0.545509)" id="radialGradient-5">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#D8E8F1" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Nextcloud-Website-Copy" transform="translate(-28.000000, -10779.000000)">
+            <g id="Group-13" transform="translate(28.000000, 10779.000000)">
+                <g id="Group-5" transform="translate(0.000000, -0.000000)">
+                    <polygon id="Rectangle" fill="url(#linearGradient-2)" points="-2.84217094e-14 93.2224138 113 0 163 93.2224138 163 807 -2.84217094e-14 807"></polygon>
+                    <polygon id="Rectangle" fill="url(#linearGradient-3)" points="112.546567 6.4659389e-13 163 93.2224138 -5.68434189e-14 93.2224138"></polygon>
+                    <polygon id="Rectangle" fill="#5DE6C9" points="40 93.2224138 113 -2.27373675e-13 203 93.2224138 203 807 40 807"></polygon>
+                    <rect id="Rectangle" fill="url(#linearGradient-4)" x="51" y="107.136207" width="144" height="699.863793"></rect>
+                    <path d="M52,134.963793 L195,134.963793 L52,134.963793 Z M52,226.794828 L195,226.794828 L52,226.794828 Z M52,320.017241 L195,320.017241 L52,320.017241 Z M52,411.848276 L195,411.848276 L52,411.848276 Z M52,505.07069 L195,505.07069 L52,505.07069 Z M52,596.901724 L195,596.901724 L52,596.901724 Z M52,690.124138 L195,690.124138 L52,690.124138 Z M52,781.955172 L195,781.955172 L52,781.955172 Z M52,180.87931 L195,180.87931 L52,180.87931 Z M52,274.101724 L195,274.101724 L52,274.101724 Z M52,365.932759 L195,365.932759 L52,365.932759 Z M52,459.155172 L195,459.155172 L52,459.155172 Z M52,550.986207 L195,550.986207 L52,550.986207 Z M52,642.817241 L195,642.817241 L52,642.817241 Z M52,736.039655 L195,736.039655 L52,736.039655 Z" id="Combined-Shape" stroke="url(#radialGradient-5)" opacity="0.200000003"></path>
+                </g>
+                <rect id="Rectangle" fill="#50E3C2" x="65" y="154" width="21" height="7"></rect>
+                <rect id="Rectangle" fill="#50E3C2" x="165" y="248" width="21" height="7"></rect>
+                <rect id="Rectangle" fill="#50E3C2" x="65" y="294" width="21" height="7"></rect>
+                <rect id="Rectangle" fill="#50E3C2" x="165" y="387" width="21" height="7"></rect>
+                <rect id="Rectangle" fill="#50E3C2" x="65" y="433" width="21" height="7"></rect>
+                <rect id="Rectangle" fill="#50E3C2" x="95" y="433" width="21" height="7"></rect>
+                <rect id="Rectangle" fill="#50E3C2" x="95" y="479" width="21" height="7"></rect>
+                <rect id="Rectangle" fill="#50E3C2" x="95" y="663" width="21" height="7"></rect>
+                <rect id="Rectangle" fill="#50E3C2" x="95" y="710" width="21" height="7"></rect>
+                <rect id="Rectangle" fill="#50E3C2" x="165" y="526" width="21" height="7"></rect>
+                <rect id="Rectangle" fill="#50E3C2" x="65" y="572" width="21" height="7"></rect>
+                <rect id="Rectangle" fill="#50E3C2" x="165" y="665" width="21" height="7"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

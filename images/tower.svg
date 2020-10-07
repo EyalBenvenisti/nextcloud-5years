@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="370px" height="940px" viewBox="0 0 370 940" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 23</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="73.1026658%" y1="34.0465985%" x2="73.1026658%" y2="107.301542%" id="linearGradient-1">
+            <stop stop-color="#0095D2" offset="0%"></stop>
+            <stop stop-color="#50E3C2" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="151.190673%" cy="50%" fx="151.190673%" fy="50%" r="153.682896%" gradientTransform="translate(1.511907,0.500000),scale(1.000000,0.275587),rotate(47.040718),translate(-1.511907,-0.500000)" id="radialGradient-2">
+            <stop stop-color="#0095D2" offset="0%"></stop>
+            <stop stop-color="#1C2D6B" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-3" points="0 0 250.87108 243.88663 250.87108 910.314702 0 910.314702"></polygon>
+        <radialGradient cx="-16.3185845%" cy="54.1690286%" fx="-16.3185845%" fy="54.1690286%" r="263.923053%" gradientTransform="translate(-0.163186,0.541690),scale(1.000000,0.259587),rotate(-37.355808),translate(0.163186,-0.541690)" id="radialGradient-5">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#064C78" offset="100%"></stop>
+        </radialGradient>
+        <filter x="-7.5%" y="-359.0%" width="115.0%" height="818.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="4.8985872e-16 -8" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="0%" y1="45.2896775%" x2="100%" y2="54.7103225%" id="linearGradient-7">
+            <stop stop-color="#215691" offset="0%"></stop>
+            <stop stop-color="#0095D2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Nextcloud-Website-Copy" transform="translate(-305.000000, -10646.000000)">
+            <g id="Group-23" transform="translate(305.000000, 10669.000000)">
+                <g id="Group-5" transform="translate(160.000000, 459.000000) scale(-1, 1) translate(-160.000000, -459.000000) ">
+                    <polygon id="Rectangle" fill="url(#linearGradient-1)" points="0 6.68529769 320 6.68529769 320 254.041312 0 254.041312"></polygon>
+                    <polygon id="Rectangle" fill="#111F54" points="245.296167 257.383961 320 6.68529769 320 917 245.296167 917"></polygon>
+                    <g id="Combined-Shape" transform="translate(0.000000, 6.685298)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Mask" fill="url(#radialGradient-2)" xlink:href="#path-3"></use>
+                        <path d="M0,53.0290601 L215.191638,53.0290601 L0,53.0290601 Z M0,170.186397 L215.191638,170.186397 L0,170.186397 Z M0,289.118845 L215.191638,289.118845 L0,289.118845 Z M0,406.276182 L215.191638,406.276182 L0,406.276182 Z M0,525.20863 L215.191638,525.20863 L0,525.20863 Z M0,642.365967 L215.191638,642.365967 L0,642.365967 Z M0,761.298415 L215.191638,761.298415 L0,761.298415 Z M0,878.455752 L215.191638,878.455752 L0,878.455752 Z M0,111.607729 L215.191638,111.607729 L0,111.607729 Z M0,230.540177 L215.191638,230.540177 L0,230.540177 Z M0,347.697513 L215.191638,347.697513 L0,347.697513 Z M0,466.629961 L215.191638,466.629961 L0,466.629961 Z M0,583.787298 L215.191638,583.787298 L0,583.787298 Z M0,700.944635 L215.191638,700.944635 L0,700.944635 Z M0,819.877083 L215.191638,819.877083 L0,819.877083 Z" stroke="url(#radialGradient-5)" opacity="0.400000006" mask="url(#mask-4)"></path>
+                    </g>
+                    <polygon id="Rectangle" fill="#50E3C2" transform="translate(160.000000, 3.342649) scale(1, -1) translate(-160.000000, -3.342649) " points="0 0 320 0 320 6.68529769 0 6.68529769"></polygon>
+                    <polygon id="Rectangle" fill="#50E3C2" filter="url(#filter-6)" transform="translate(160.000000, 3.342649) scale(1, -1) translate(-160.000000, -3.342649) " points="0 0 320 0 320 6.68529769 0 6.68529769"></polygon>
+                </g>
+                <polygon id="Combined-Shape" fill="url(#linearGradient-7)" transform="translate(314.500000, 22.500000) scale(-1, 1) translate(-314.500000, -22.500000) " points="286.907099 7 365 7 348.868056 38 264 38"></polygon>
+                <polygon id="Combined-Shape" fill="#172B75" transform="translate(319.500000, 84.500000) scale(-1, 1) translate(-319.500000, -84.500000) " points="291.907099 69 370 69 353.868056 100 269 100"></polygon>
+                <polygon id="Combined-Shape" fill="#172B75" transform="translate(314.500000, 147.500000) scale(-1, 1) translate(-314.500000, -147.500000) " points="286.907099 132 365 132 348.868056 163 264 163"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

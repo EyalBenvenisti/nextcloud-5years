@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="387px" height="1059px" viewBox="0 0 387 1059" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 31</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="44.1303873%" cy="14.8992945%" fx="44.1303873%" fy="14.8992945%" r="95.6693573%" gradientTransform="translate(0.441304,0.148993),scale(0.318872,1.000000),rotate(127.976591),scale(1.000000,1.238267),translate(-0.441304,-0.148993)" id="radialGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.32069493" offset="0%"></stop>
+            <stop stop-color="#064C78" offset="100%"></stop>
+        </radialGradient>
+        <filter x="-7.8%" y="-29.4%" width="115.6%" height="158.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="6.123234e-16 -10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Nextcloud-Website-Copy" transform="translate(-926.000000, -10526.000000)">
+            <g id="Group-31" transform="translate(926.000000, 10554.000000)">
+                <g id="Group-5">
+                    <polygon id="Rectangle" fill="#101D4B" points="297 106 387 106 387 1031 297 1031"></polygon>
+                    <polygon id="Rectangle" fill="#083466" points="2 106 297 106 297 1031 2 1031"></polygon>
+                    <path d="M-314,424 L608,424 L-314,424 Z M-314,482 L608,482 L-314,482 Z M-314,541 L608,541 L-314,541 Z M-314,599 L608,599 L-314,599 Z M-314,658 L608,658 L-314,658 Z M-314,716 L608,716 L-314,716 Z M-314,453 L608,453 L-314,453 Z M-314,510 L608,510 L-314,510 Z M-314,570 L608,570 L-314,570 Z M-314,630 L608,630 L-314,630 Z M-314,687 L608,687 L-314,687 Z" id="Combined-Shape" stroke="url(#radialGradient-1)" transform="translate(147.000000, 570.000000) rotate(-90.000000) translate(-147.000000, -570.000000) "></path>
+                    <polygon id="Rectangle" fill="#50E3C2" transform="translate(195.000000, 82.500000) scale(1, -1) translate(-195.000000, -82.500000) " points="3 59 387 59 387 66.2307692 203.112676 66.2307692 203.112676 69.8461538 177.873239 69.8461538 177.873239 66.2307692 94.943662 66.2307692 94.943662 84.3076923 71.1947102 84.3076923 71.1947102 106 69.7042254 106 69.7042254 84.3076923 37.2535211 84.3076923 37.2535211 66.2307692 3 66.2307692"></polygon>
+                    <polygon id="Rectangle" fill="#50E3C2" opacity="0.200000003" filter="url(#filter-2)" transform="translate(195.000000, 51.000000) scale(1, -1) translate(-195.000000, -51.000000) " points="3 0 387 0 387 15.6923077 203.112676 15.6923077 203.112676 23.5384615 177.873239 23.5384615 177.873239 15.6923077 94.943662 15.6923077 94.943662 54.9230769 71.1947102 54.9230769 71.1947102 102 69.7042254 102 69.7042254 54.9230769 37.2535211 54.9230769 37.2535211 15.6923077 3 15.6923077"></polygon>
+                </g>
+                <rect id="Rectangle" fill="#FFFFFF" x="63" y="530" width="21" height="5"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="63" y="396" width="21" height="5"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="91" y="396" width="21" height="5"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" opacity="0.300000012" x="311" y="336" width="21" height="5"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" opacity="0.300000012" x="311" y="276" width="21" height="5"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="91" y="216" width="21" height="5"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="91" y="356" width="21" height="5"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="91" y="296" width="21" height="5"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" opacity="0.300000012" x="311" y="236" width="21" height="5"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="121" y="356" width="21" height="5"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="121" y="296" width="21" height="5"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="121" y="236" width="21" height="5"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="241" y="666" width="21" height="5"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" opacity="0.300000012" x="331" y="606" width="21" height="5"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" opacity="0.300000012" x="331" y="546" width="21" height="5"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="181" y="766" width="21" height="5"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="181" y="666" width="21" height="5"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="181" y="606" width="21" height="5"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="151" y="766" width="21" height="5"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="123" y="396" width="21" height="5"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="93" y="763" width="21" height="5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

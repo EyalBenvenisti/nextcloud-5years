@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="344px" height="1228px" viewBox="0 0 344 1228" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 11</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="151.190673%" cy="50%" fx="151.190673%" fy="50%" r="172.69757%" gradientTransform="translate(1.511907,0.500000),scale(1.000000,0.225724),rotate(52.667104),translate(-1.511907,-0.500000)" id="radialGradient-1">
+            <stop stop-color="#0095D2" offset="0%"></stop>
+            <stop stop-color="#1C2D6B" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="0%" y1="47.5767153%" x2="100%" y2="52.4232847%" id="linearGradient-2">
+            <stop stop-color="#0095D2" offset="0%"></stop>
+            <stop stop-color="#50E3C2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="39.435725%" x2="166.706463%" y2="39.435725%" id="linearGradient-3">
+            <stop stop-color="#16255D" offset="0%"></stop>
+            <stop stop-color="#215691" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="49.7378121%" x2="100%" y2="50.2621879%" id="linearGradient-4">
+            <stop stop-color="#215691" offset="0%"></stop>
+            <stop stop-color="#0095D2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="39.435725%" x2="166.706463%" y2="39.435725%" id="linearGradient-5">
+            <stop stop-color="#16255D" offset="0%"></stop>
+            <stop stop-color="#215691" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="49.1173163%" x2="100%" y2="50.8826837%" id="linearGradient-6">
+            <stop stop-color="#215691" offset="0%"></stop>
+            <stop stop-color="#0095D2" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="82.0978411%" cy="50%" fx="82.0978411%" fy="50%" r="225.703392%" gradientTransform="translate(0.820978,0.500000),scale(1.000000,0.237179),rotate(-38.026547),translate(-0.820978,-0.500000)" id="radialGradient-7">
+            <stop stop-color="#FFFFFF" stop-opacity="0.45236014" offset="0%"></stop>
+            <stop stop-color="#1C2D6B" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Nextcloud-Website-Copy" transform="translate(-36.000000, -10359.000000)">
+            <g id="Group-11" transform="translate(36.000000, 10359.000000)">
+                <path d="M47.9948849,45 L319,45 L319,1225 L50.0051064,1225 L47.9948849,45 Z" id="Rectangle" stroke="#50E3C2" stroke-width="6" fill="url(#radialGradient-1)"></path>
+                <rect id="Rectangle" fill="#16255D" x="0" y="59" width="54" height="1163"></rect>
+                <rect id="Rectangle" fill="url(#linearGradient-2)" transform="translate(188.000000, 69.500000) scale(1, -1) translate(-188.000000, -69.500000) " x="54" y="40" width="268" height="59"></rect>
+                <rect id="Rectangle" fill="url(#linearGradient-3)" transform="translate(27.000000, 69.500000) scale(1, -1) translate(-27.000000, -69.500000) " x="0" y="40" width="54" height="59"></rect>
+                <rect id="Rectangle" fill="url(#linearGradient-4)" transform="translate(199.000000, 29.500000) scale(1, -1) translate(-199.000000, -29.500000) " x="54" y="19" width="290" height="21"></rect>
+                <rect id="Rectangle" fill="url(#linearGradient-5)" transform="translate(27.000000, 29.500000) scale(1, -1) translate(-27.000000, -29.500000) " x="0" y="19" width="54" height="21"></rect>
+                <polygon id="Rectangle" fill="url(#linearGradient-6)" transform="translate(272.500000, 9.500000) scale(1, -1) translate(-272.500000, -9.500000) " points="201 0 344 0 344 19 226.61194 19"></polygon>
+                <path d="M56,119.976303 L315,119.976303 L56,119.976303 Z M56,171.729858 L315,171.729858 L56,171.729858 Z M56,221.758294 L315,221.758294 L56,221.758294 Z M56,273.511848 L315,273.511848 L56,273.511848 Z M56,323.540284 L315,323.540284 L56,323.540284 Z M56,375.293839 L315,375.293839 L56,375.293839 Z M56,425.322275 L315,425.322275 L56,425.322275 Z M56,477.075829 L315,477.075829 L56,477.075829 Z M56,528.829384 L315,528.829384 L56,528.829384 Z M56,578.85782 L315,578.85782 L56,578.85782 Z M56,630.611374 L315,630.611374 L56,630.611374 Z M56,680.63981 L315,680.63981 L56,680.63981 Z M56,732.393365 L315,732.393365 L56,732.393365 Z M56,782.421801 L315,782.421801 L56,782.421801 Z M56,834.175355 L315,834.175355 L56,834.175355 Z M56,885.92891 L315,885.92891 L56,885.92891 Z M56,935.957346 L315,935.957346 L56,935.957346 Z M56,987.7109 L315,987.7109 L56,987.7109 Z M56,1037.73934 L315,1037.73934 L56,1037.73934 Z M56,1089.49289 L315,1089.49289 L56,1089.49289 Z M56,1139.52133 L315,1139.52133 L56,1139.52133 Z M56,1191.27488 L315,1191.27488 L56,1191.27488 Z M56,102.725118 L315,102.725118 L56,102.725118 Z M56,154.478673 L315,154.478673 L56,154.478673 Z M56,204.507109 L315,204.507109 L56,204.507109 Z M56,256.260664 L315,256.260664 L56,256.260664 Z M56,306.2891 L315,306.2891 L56,306.2891 Z M56,358.042654 L315,358.042654 L56,358.042654 Z M56,408.07109 L315,408.07109 L56,408.07109 Z M56,459.824645 L315,459.824645 L56,459.824645 Z M56,511.578199 L315,511.578199 L56,511.578199 Z M56,561.606635 L315,561.606635 L56,561.606635 Z M56,613.36019 L315,613.36019 L56,613.36019 Z M56,663.388626 L315,663.388626 L56,663.388626 Z M56,715.14218 L315,715.14218 L56,715.14218 Z M56,765.170616 L315,765.170616 L56,765.170616 Z M56,816.924171 L315,816.924171 L56,816.924171 Z M56,868.677725 L315,868.677725 L56,868.677725 Z M56,918.706161 L315,918.706161 L56,918.706161 Z M56,970.459716 L315,970.459716 L56,970.459716 Z M56,1020.48815 L315,1020.48815 L56,1020.48815 Z M56,1072.24171 L315,1072.24171 L56,1072.24171 Z M56,1122.27014 L315,1122.27014 L56,1122.27014 Z M56,1174.0237 L315,1174.0237 L56,1174.0237 Z" id="Combined-Shape" stroke="url(#radialGradient-7)" opacity="0.400000006"></path>
+            </g>
+        </g>
+    </g>
+</svg>

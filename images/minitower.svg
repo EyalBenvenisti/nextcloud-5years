@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="163px" height="315px" viewBox="0 0 163 315" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 13</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="-16.3185845%" cy="54.1690286%" fx="-16.3185845%" fy="54.1690286%" r="163.980982%" gradientTransform="translate(-0.163186,0.541690),scale(1.000000,0.517460),rotate(-25.774781),translate(0.163186,-0.541690)" id="radialGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#064C78" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="36.611741%" y1="0%" x2="63.388259%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#50E3C2" offset="0%"></stop>
+            <stop stop-color="#144036" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="55.4831889%" y1="12.6697126%" x2="55.4831889%" y2="128.790002%" id="linearGradient-3">
+            <stop stop-color="#09294D" offset="0%"></stop>
+            <stop stop-color="#0A407C" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="80.3120281%" cy="54.5509384%" fx="80.3120281%" fy="54.5509384%" r="121.517788%" gradientTransform="translate(0.803120,0.545509),scale(1.000000,0.507433),rotate(-141.632297),translate(-0.803120,-0.545509)" id="radialGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#D8E8F1" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Nextcloud-Website-Copy" transform="translate(-207.000000, -11274.000000)">
+            <g id="Group-13" transform="translate(207.000000, 11274.000000)">
+                <g id="Group-5">
+                    <polygon id="Rectangle" fill="url(#linearGradient-2)" points="0 -5.45696821e-12 163 -5.45696821e-12 163 315 0 315"></polygon>
+                    <rect id="Rectangle" fill="url(#linearGradient-3)" x="11" y="11.4655172" width="144" height="303.534483"></rect>
+                    <polygon id="Rectangle" fill="#001019" opacity="0.300000012" points="11 14 33 14 33 315 11 315"></polygon>
+                    <path d="M12,23.5344828 L155,23.5344828 L12,23.5344828 Z M12,63.362069 L155,63.362069 L12,63.362069 Z M12,103.793103 L155,103.793103 L12,103.793103 Z M12,143.62069 L155,143.62069 L12,143.62069 Z M12,184.051724 L155,184.051724 L12,184.051724 Z M12,223.87931 L155,223.87931 L12,223.87931 Z M12,264.310345 L155,264.310345 L12,264.310345 Z M12,304.137931 L155,304.137931 L12,304.137931 Z M12,43.4482759 L155,43.4482759 L12,43.4482759 Z M12,83.8793103 L155,83.8793103 L12,83.8793103 Z M12,123.706897 L155,123.706897 L12,123.706897 Z M12,164.137931 L155,164.137931 L12,164.137931 Z M12,203.965517 L155,203.965517 L12,203.965517 Z M12,243.793103 L155,243.793103 L12,243.793103 Z M12,284.224138 L155,284.224138 L12,284.224138 Z" id="Combined-Shape" stroke="url(#radialGradient-4)" opacity="0.200000003"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

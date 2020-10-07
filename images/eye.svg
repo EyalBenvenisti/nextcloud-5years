@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="294px" height="120px" viewBox="0 0 294 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Oval</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M147,120 C182.5164,120 216.400002,101.658223 259.556799,74.9746699 C269.132907,69.0538276 282.968644,67.4760944 293.095757,60.2414702 C251.465724,20.4024503 201,0.4829404 147,0.4829404 C93,0.4829404 42.5342762,20.4024503 0.904242696,60.2414702 C56.6713808,100.08049 103.602828,120 147,120 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Nextcloud-Website" transform="translate(-2080.000000, -7543.000000)">
+            <g id="Group-30" transform="translate(2080.000000, 7543.000000)">
+                <g id="Oval">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
